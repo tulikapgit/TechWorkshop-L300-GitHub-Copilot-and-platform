@@ -38,6 +38,13 @@ This directory contains all documentation and resources for Exercise 02, which g
   - Pre-deployment checklist
   - Troubleshooting guidance
 
+- **[ARCHITECTURE.md](ARCHITECTURE.md)** - Visual architecture diagram
+  - Infrastructure components diagram
+  - Data flow visualization
+  - Security architecture
+  - Deployment architecture
+  - High availability considerations
+
 ## Learning Path
 
 Follow this recommended sequence:
