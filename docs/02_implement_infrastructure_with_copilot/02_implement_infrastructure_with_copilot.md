@@ -27,3 +27,11 @@ After completing this exercise, you'll be able to:
 ## Duration
 
 * **Estimated Time:** 60 minutes
+
+## Planning Resources
+
+Before starting this exercise, review these planning guides to understand the Azure infrastructure requirements:
+
+* **[Quick Reference Guide](QUICK_REFERENCE.md)** - Condensed checklist and key information for quick reference
+* **[Azure Infrastructure Planning Guide](AZURE_INFRASTRUCTURE_PLANNING.md)** - Comprehensive planning document with architecture details, security requirements, cost considerations, and best practices
+* **[Architecture Diagram](ARCHITECTURE.md)** - Visual representation of the infrastructure components and their relationships
